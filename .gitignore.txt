@@ -1,0 +1,8 @@
+# filepath: /c:/Users/OMISTAJA/mysite/.gitignore
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+/media/
+/staticfiles/
+/venv/
